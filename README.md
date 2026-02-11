@@ -10,7 +10,7 @@ D2CNet is an AI-based proxy model designed to bridge the gap between initial des
 
 <h2 align="center">📅 Project Status: Coming Soon</h2>
 
-Note: The code and the PanGen Dataset are currently being cleaned and organized. We are committed to making our research fully reproducible.
+Note: The code and the PanGen Dataset are currently being cleaned and organized.
 
 [ ] Release inference code and pre-trained models.
 
@@ -18,7 +18,6 @@ Note: The code and the PanGen Dataset are currently being cleaned and organized.
 
 [ ] Provide training scripts and evaluation tools.
 
-Stay tuned by Starring or Watching this repository!
 
 <h2 align="center">📊 Dataset: PanGen</h2>
 
